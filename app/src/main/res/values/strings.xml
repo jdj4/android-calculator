@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator Example</string>
+    <string name="all_clear">AC</string>
+    <string name="backspace">⌫</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="mod">MOD</string>
+    <string name="operators">+-×÷%</string>
+</resources>
