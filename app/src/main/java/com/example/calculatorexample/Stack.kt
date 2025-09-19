@@ -1,5 +1,8 @@
 package com.example.calculatorexample
 
+/**
+ * Stack ADT that comes in handy with the EquationParser.
+ */
 class Stack<T> {
     private val elements = mutableListOf<T>()
 
